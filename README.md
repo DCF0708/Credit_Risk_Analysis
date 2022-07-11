@@ -12,7 +12,7 @@ The following report is an assessment of 6 different machine learning models eff
 </br>
 
 ### RandomOverSampler
-!(RandomOverSampler)[/images/1.png]
+![RandomOverSampler](/images/1.png)
 
 Balanced accuracy score: 
 
@@ -26,7 +26,7 @@ Recall Scores:
 - Low Risk: 0.58
 
 ### SMOTE
-!(SMOTE)[/images/2.png]
+![SMOTE](/images/2.png)
 
 Balanced accuracy score: 0.66
 
@@ -40,7 +40,7 @@ Recall Scores:
 - Low Risk: 0.68
 
 ### ClusterCentroids
-!(ClusterCentroids)[/images/3.png]
+![ClusterCentroids](/images/3.png)
 
 Balanced accuracy score: 0.54
 
@@ -54,7 +54,7 @@ Recall Scores:
 - Low Risk: 0.40
 
 ### SMOTEENN
-!(SMOTEENN)[/images/4.png]
+![SMOTEENN](/images/4.png)
 
 Balanced accuracy score: 0.67
 
@@ -68,7 +68,7 @@ Recall Scores:
 - Low Risk: 0.60
 
 ### BalancedRandomForestClassifier
-!(BalancedRandomForestClassifier)[/images/5.png]
+![BalancedRandomForestClassifier](/images/5.png)
 
 Balanced accuracy score: 0.79
 
@@ -82,7 +82,7 @@ Recall Scores:
 - Low Risk: 0.87
 
 ### EasyEnsembleClassifier
-!(EasyEnsembleClassifier)[/images/6.png]
+![EasyEnsembleClassifier](/images/6.png)
 
 Balanced accuracy score: 0.93
 
