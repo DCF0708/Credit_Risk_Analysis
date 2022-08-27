@@ -3,7 +3,7 @@
 </br>
 
 ## Overview
-The following report is an assessment of 6 different machine learning models effectiveness in predicting credit risk. Each method was executed on the same credit card credit dataset from a popular peer-to-peer lending company. The results of each model are shown as they exist in code and their outputs are then summarized below. 
+The following is an assessment of 6 machine learning models effectiveness in predicting credit risk. Each method was executed on the same credit card credit dataset from a popular peer-to-peer lending company. The results of each model are shown as they exist in code and their outputs are then summarized below. 
 
 
 
